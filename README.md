@@ -1,7 +1,7 @@
 <!-- Header -->
 <p align="center">
 </p>
-<h1 align="center" style="color: #9166FF;">Hey there, I'm Akash Sasikumar! 🚀</h1>
+<h1 align="center">Hey there, I'm Akash Sasikumar! 🚀</h1>
 <h3 align="center">Computer Science Engineer | UI/UX Designer | Algorithmic Trader</h3>
 
 
