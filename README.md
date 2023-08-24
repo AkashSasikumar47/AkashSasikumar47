@@ -1,19 +1,23 @@
 <!-- Header -->
 <p align="center">
 </p>
-<h1 align="center">Hey there, I'm Akash Sasikumar! 👋</h1>
-<p align="center">Computer Science & Engineering Student | Algorithmic Trader</p>
+<h1 align="center" style="color: #9166FF;">Hey there, I'm Akash Sasikumar! 🚀</h1>
+<h3 align="center">Computer Science Engineer | UI/UX Designer | Algorithmic Trader</h3>
 
 
 <!-- About Me -->
-<p align="center">
-  I'm a 21-year-old student at SRM Institute of Science and Technology, passionate about exploring the world of code and
-  finance.
-</p>
+<div style="max-width: 800px; margin: 0 auto;">
+  <p align="justify">
+    Hello, I'm Akash Sasikumar, a Computer Science enthusiast with a knack for crafting user-friendly experiences.
+    From coding to financial analysis, I'm on a journey to blend creativity and technology.
+    As a 21-year-old student at SRMIST, I'm mastering programming, web development, and data science.
+    Outside of coding, you'll find me exploring the stock market, working on projects, and diving into fintech and blockchain exploration.
+  </p>
+</div>
 
 <!-- Skills -->
 <div>
-  <h2 align="center">Tech I've been exploring</h2>
+<h2 align="center">My Journey Through Exciting Technologies</h2>
   <p align="center">
     <!-- Programming Languages -->
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -40,38 +44,40 @@
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
     <!-- Cloud & DevOps -->
     <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&
-    logoColor=white" />
+    <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
   </p>
 </div>
 
-<!-- Projects -->
+<!-- Projects & Achievements -->
 <h2 align="center">Projects & Achievements</h2>
-<p align="center">
-  🚀 Developed various small projects and basic web applications
+<div style="max-width: 600px; margin: 0 auto;">
+<p align="justify">
+  🚀 Created a collection of technical indicators to aid traders in understanding price action
   <br>
-  📊 Actively learning and applying Data Science concepts
+  🖥️ Developing a SaaS Event Management System for Catering and Hospitality
   <br>
-  💡 Explored the world of Algorithmic Trading
+  🎨 Designed intuitive web and app interfaces for user-friendly experiences
+  <br>
+  💡 Crafted small web applications to explore new technologies and frameworks
 </p>
+</div>
 
 <!-- Connect -->
-<h2 align="center">Connect with Me</h2>
+<h2 align="center">Let's Stay Connected</h2>
 <p align="center">
-  <a href="mailto:youremail@gmail.com"><img
+  <a href="mailto:akashsasikumar47@gmail.com"><img
       src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/yourusername"><img
+  <a href="https://www.linkedin.com/in/akash-sasikumar47"><img
       src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/yourusername"><img
-      src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"></a>
-  <a href="https://www.instagram.com/yourusername/"><img
+  <a href="https://www.facebook.com/AkashSasikumar47?mibextid=LQQJ4d">
+  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook"></a>
+  <a href="https://instagram.com/akash__sasikumar?igshid=MjEwN2IyYWYwYw=="><img
       src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"></a>
 </p>
 
 
 <p align="center">
-  Feel free to reach out to me! Let's connect and discuss exciting ideas. 💬
+  Let's spark a conversation! Connect with me and let's discuss some exciting ideas. 💬
 </p>
