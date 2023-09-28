@@ -2,16 +2,16 @@
 <p align="center">
 </p>
 <h1 align="center">Hey there, I'm Akash Sasikumar! 🚀</h1>
-<h3 align="center">Computer Science Engineer | UI/UX Designer | Algorithmic Trader</h3>
-
+<h3 align="center">Full Stack Web Developer | UI/UX Designer | Algorithmic Trader</h3>
+<p align="center">Welcome to my digital world, where technology meets creativity, and innovation knows no bounds.</p>
 
 <!-- About Me -->
 <div style="max-width: 800px; margin: 0 auto;">
   <p align="justify">
-    Hello, I'm Akash Sasikumar, a Computer Science enthusiast with a knack for crafting user-friendly experiences.
-    From coding to financial analysis, I'm on a journey to blend creativity and technology.
-    As a 21-year-old student at SRMIST, I'm mastering programming, web development, and data science.
-    Outside of coding, you'll find me exploring the stock market, working on projects, and diving into fintech and blockchain exploration.
+    Hey there, I'm Akash Sasikumar, a passionate Full Stack Web Developer with a penchant for crafting seamless digital experiences.
+    I'm on a mission to marry my creativity with technology, delivering user-friendly web solutions that leave a lasting impression.
+    Currently pursuing my studies at SRMIST, I'm fully immersed in the world of programming, honing my skills in both front-end and back-end development.
+    Beyond the screen, you'll often find me exploring the intricacies of web applications, working on exciting projects, and diving headfirst into the realms of fintech and blockchain.
   </p>
 </div>
 
@@ -30,6 +30,9 @@
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
     <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
     <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
