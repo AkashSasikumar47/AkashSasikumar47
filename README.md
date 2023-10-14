@@ -8,9 +8,9 @@
 <!-- About Me -->
 <div style="max-width: 800px; margin: 0 auto;">
   <p align="justify">
-    Hey there, I'm Akash Sasikumar, a passionate Full Stack Web Developer with a penchant for crafting seamless digital experiences.
-    I'm on a mission to marry my creativity with technology, delivering user-friendly web solutions that leave a lasting impression.
-    Currently pursuing my studies at SRMIST, I'm fully immersed in the world of programming, honing my skills in both front-end and back-end development.
+    Hey there, I'm Akash Sasikumar, a passionate Full Stack Web Developer on a mission to craft seamless digital experiences.
+    I specialize in both front-end and back-end development, creating user-friendly web solutions that leave a lasting impression.
+    Currently pursuing my studies at SRMIST, I'm fully immersed in the world of programming, with a strong focus on Full Stack Web Development.
     Beyond the screen, you'll often find me exploring the intricacies of web applications, working on exciting projects, and diving headfirst into the realms of fintech and blockchain.
   </p>
 </div>
@@ -36,6 +36,8 @@
     <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
     <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-%23006DB7?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <!-- Databases -->
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="MsSQL" src="https://img.shields.io/badge/mssql-%23CC2927.svg?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
