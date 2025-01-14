@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/akash__sasikumar)
 
 - 💻 Full Stack Web Developer | AI Integration in ERP
-- 🧰 I build with: `JavaScript`, `TypeScript`, `Node.js`, `Tailwind`, `Next.js`, `Flask`, `MySQL`, `PostgreSQL`
+- 🧰 I build with: `JavaScript`, `TypeScript`, `Python`, `Node.js`, `Tailwind`, `Next.js`, `Flask`, `MySQL`, `PostgreSQL`
 - 🤖 Currently working on implementing AI in ERP software using OpenAI
 - 🎨 Passionate about creating intuitive web and app interfaces
 - 📫 Reach out to me: [akashsasikumar47@gmail.com](mailto:akashsasikumar47@gmail.com)
