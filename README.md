@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/akash__sasikumar)
 
 - 👨‍💻 **Software Engineer**
-- 🧰 I build with: `React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `MySQL` · `PostgreSQL`
-- 🏗️ Currently working on **WHS systems** and modernizing legacy Java-based platforms
-- 🎯 Passionate about clean UI, scalable architecture, and intuitive user experiences
-- 📫 Reach out to me: [akashsasikumar47@gmail.com](mailto:akashsasikumar47@gmail.com)
+- 🧰 I work with: `React` · `Next.js` · `TypeScript` · `Java` · `Tailwind CSS` · `MySQL` · `PostgreSQL` · `SAP S/4HANA`
+- 🏗️ Currently developing and maintaining **WHS systems** for Bru Textiles, modernizing legacy Java platforms and supporting operational workflows across multiple countries
+- 🎯 Focused on building reliable, scalable, and easy-to-use software for internal teams
+- 📫 Reach out: [akashsasikumar47@gmail.com](mailto:akashsasikumar47@gmail.com)
